@@ -1,2 +1,2 @@
 # can-others-run
-learning rust---wish me luck
+rustying---wish me luck
